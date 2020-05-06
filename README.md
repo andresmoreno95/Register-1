@@ -3,9 +3,9 @@
 Es un software realizado en PHP enfocado a la verificación de los datos enviados por el  componente "Coodinador" donde se responderá "verdadero" o "falso" según la información recibida.
 Esta información recibida debe contener 3 datos:
 
-+ Hash 1: Dirección pública de la "Walet".
-+ Hash 2: Dirección privada de la "Walet".
-+ Monto: corresponde a la cantidad de dinero a ingresar en la "Walet".
++ Hash 1: Dirección pública de la "Wallet".
++ Hash 2: Dirección privada de la "Wallet".
++ Monto: corresponde a la cantidad de dinero a ingresar en la "Wallet".
 
 ```bash
 $hash_1 = $_POST["h1"];
